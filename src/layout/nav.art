@@ -1,0 +1,5 @@
+<div>
+  <a href="/" class="router">pageA</a>
+  <a href="/pageB" class="router">pageB</a>
+  <a href="/pageC" class="router">pageC</a>
+</div>

@@ -1,0 +1,4 @@
+{{include './nav.art'}}
+<div>母版页</div>
+<!-- 页面内容 -->
+{{block 'content'}}{{/block}}

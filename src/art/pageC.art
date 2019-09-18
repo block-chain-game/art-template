@@ -1,0 +1,4 @@
+{{extend './../layout/index.art'}}
+{{block 'content'}}
+  <span>pageC</span>
+{{/block}}
